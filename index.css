@@ -1,0 +1,16 @@
+body h1:first-of-type {
+  font-size: 40px;
+  background-color: black;
+  color: white;
+}
+
+body p:first-of-type {
+  font-size: 30px;
+}
+#button1 {
+  width: 25%;
+  height: 50px;
+  font-size: 20px;
+  background-color: green;
+  color: white;
+}
